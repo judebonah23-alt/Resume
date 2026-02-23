@@ -12,7 +12,7 @@
         font-size: medium;
     }
     h2 {
-        color: #2c0fbe81;
+        color: #d5d10ddd;
         font-style: italic;
         font-size: medium;
         text-align: left;
@@ -21,6 +21,8 @@
         border: 1px solid #ddd;
         border-radius: 50%;
         padding: 5px;
+        float: left;
+        margin-right: 20px;
     }
     footer {
         text-align: center;
